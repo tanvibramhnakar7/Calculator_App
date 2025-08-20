@@ -1,5 +1,4 @@
 # Calculator-App
-# Calculator-App
 # 🧮 Simple Calculator in Python
 
 This is a basic command-line calculator app built using Python.  
